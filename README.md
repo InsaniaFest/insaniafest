@@ -1,16 +1,19 @@
-## Hi there 👋
+# InsaniaFest 🎪🔥
 
-<!--
-**InsaniaFest/insaniafest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido al repositorio oficial de **InsaniaFest**, el festival de música y arte urbano más insano del año.
 
-Here are some ideas to get you started:
+## 🎤 Secciones de la web
+- Line-Up de artistas
+- Horarios por día
+- Venta de entradas
+- Galería visual
+- Formulario de contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Ver online
+👉 [https://TUUSUARIO.github.io/insaniafest](https://TUUSUARIO.github.io/insaniafest)  
+*(Reemplaza “TUUSUARIO” con tu nombre de usuario en GitHub)*
+
+## 📩 Contacto
+Organiza: Asociación Insania  
+Email: info@insaniafest.es  
+Instagram: [@insaniafest](https://instagram.com/insaniafest)
